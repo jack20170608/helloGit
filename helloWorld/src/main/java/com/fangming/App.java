@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello Git!" );
         System.out.println( "Hello Git, as well!" );
         System.out.println( "Hello Deng lili !" );
+        System.out.println( "Hello Fang Ming!" );
     }
 }
