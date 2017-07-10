@@ -12,5 +12,6 @@ public class App
         System.out.println( "Edit by Jack 275287908!" );
         System.out.println( "Hello Git!" );
         System.out.println( "Hello Git, as well!" );
+        System.out.println( "Hello Deng lili !" );
     }
 }
