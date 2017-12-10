@@ -33,6 +33,7 @@ public class App
         List list = new ArrayList();
         list.add(100L);
         list.add("good good");
+        list.add("test git.");
         System.out.printf(list.toString());
 
         //Reflection to get annotation values
